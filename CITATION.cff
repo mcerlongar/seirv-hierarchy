@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Coupling hierarchical opinion formation with epidemic spread: a kinetic SEIRV framework for vaccine hesitancy"
+abstract: "MATLAB code for the closed-system hierarchy and Monte Carlo simulations of a SEIR-V epidemic model coupled with opinion dynamics."
+authors:
+  - family-names: "Romero Longar"
+    given-names: "Maria Celeste"
+    orcid: "https://orcid.org/009-0001-2400-8408"
+    affiliation: "Instituto de Matemática Aplicada San Luis (IMASL), CONICET-UNSL, Ejército de los Andes 950, D5700HHW San Luis, Argentina"
+  - family-names: "Saintier"
+    given-names: "Nicolas"
+    orcid: "https://orcid.org/0000-0002-0521-4361"
+    affiliation: "Instituto de Cálculo (UBA-CONICET) and Departamento de Matemática, FCEyN Universidad de Buenos Aires, Pabellón I Ciudad Universitaria (1428) Buenos Aires, Argentina"
+  - family-names: "Silva"
+    given-names: "Analia"
+    orcid: "https://orcid.org/A. Silva: 0000-0002-1108-986X"
+    affiliation: "Departamento de Matemática, FCFMyN, Universidad Nacional de San Luis, and Instituto de Matemática Aplicada San Luis (IMASL), CONICET-UNSL, Ejército de los Andes 950, D5700HHW San Luis, Argentina"
+version: 1.0.0
+# doi: 10.5281/zenodo.24520068
+date-released: "2026-11-24"
+license: MIT
+repository-code: "https://github.com/mcerlongar/seirv-hierarchy"
+keywords:
+  - epidemic model
+  - SEIR
+  - opinion dynamics
+  - vaccination
+  - Boltzmann equation
+type: software
