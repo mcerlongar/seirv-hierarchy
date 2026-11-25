@@ -2,7 +2,7 @@
 
 This repository contains the MATLAB scripts used for the numerical experiments in
 
-> M. C. Romero Longar, N. Saintier, A. Silva. *Who leads matters: hierarchical opinion dynamics and vaccine uptake in a kinetic SEIRV model.*
+> M. C. Romero Longar, N. Saintier, A. Silva. *Coupling hierarchical opinion formation with epidemic spread: a kinetic SEIRV framework for vaccine hesitancy.*
 
 The model couples an SEIRV epidemic with an opinion dynamics in which agents have a continuous opinion in [-1, 1] and a fixed hierarchy level. Agents adopt the opinion of higher-ranked agents, and a lower-ranked agent influences a higher-ranked one only with probability `p`. The transmission and vaccination rates depend on the opinion.
 
